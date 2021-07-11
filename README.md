@@ -5,4 +5,7 @@
 * drone_location_approximation - approximation of drone's trajectory based on its location between different time intervals
 
 ## Setup
-In Matlab click Add-Ons and install Simulink, Symbolic Math Toolbox, Parallel Computing Toolbox
+In Matlab click Add-Ons and install:
+- Simulink
+- Symbolic Math Toolbox
+- Parallel Computing Toolbox
